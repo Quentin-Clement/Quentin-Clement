@@ -23,7 +23,7 @@ I have a vast spectrum of capabilities, having learned multiple fields of progra
 
 ### 👷‍♂️ In Progress Projects:
 
-- 📱 [Tinder-like Recruitment Application](https://github.com/algosup/2023-2024-project-5-flutter-team-8) based on soft skills for [we are evolution.](https://www.linkedin.com/company/we-are-evolution/) (Flutter) 
+- 🎮 [Serious Game about Climate Change](https://github.com/algosup/2024-2025-project-2-serious-game-team-7.git) to raise awareness about the risks of global warming (Godot, C#) 
 - 🚀 [Virtual Fitness Coach](https://github.com/Quentin-Clement/Moonshot-Project-Quentin-Clement) to optimize muscle activation and prevent injuries (Web Language?, TensorFlow, Python)
 
 ### 📋 A Non-Exhaustive List of My Past Projects:
